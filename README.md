@@ -1,7 +1,7 @@
 <div style="text-align: center"> 
 
-# Asamblea de Estudiantes de Economía
-## Taller sobre Github
+# ASAMBLEA DE ESTUDIANTES DE ECONOMIA
+## Taller sobre GitHub
 ---
 
 </div>
